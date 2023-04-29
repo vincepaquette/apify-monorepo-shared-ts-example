@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "crawlers/*",
+    "shared"
+  ],
+  "devDependencies": {
+    "tsc-alias": "^1.8.6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "sanitize-html": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/sanitize-html": "^2.9.0"
+  }
+}
